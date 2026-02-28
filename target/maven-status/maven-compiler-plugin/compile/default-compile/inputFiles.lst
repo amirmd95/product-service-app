@@ -1,0 +1,12 @@
+/home/runner/work/product-service-app/product-service-app/src/main/java/com/sphota/product/ProductManagementAppApplication.java
+/home/runner/work/product-service-app/product-service-app/src/main/java/com/sphota/product/controller/CategoryController.java
+/home/runner/work/product-service-app/product-service-app/src/main/java/com/sphota/product/controller/ProductController.java
+/home/runner/work/product-service-app/product-service-app/src/main/java/com/sphota/product/dto/CategoryRequest.java
+/home/runner/work/product-service-app/product-service-app/src/main/java/com/sphota/product/dto/ProductRequest.java
+/home/runner/work/product-service-app/product-service-app/src/main/java/com/sphota/product/dto/ProductResponse.java
+/home/runner/work/product-service-app/product-service-app/src/main/java/com/sphota/product/model/Category.java
+/home/runner/work/product-service-app/product-service-app/src/main/java/com/sphota/product/model/Product.java
+/home/runner/work/product-service-app/product-service-app/src/main/java/com/sphota/product/repository/CategoryRepository.java
+/home/runner/work/product-service-app/product-service-app/src/main/java/com/sphota/product/repository/ProductRepository.java
+/home/runner/work/product-service-app/product-service-app/src/main/java/com/sphota/product/service/CategoryService.java
+/home/runner/work/product-service-app/product-service-app/src/main/java/com/sphota/product/service/ProductService.java

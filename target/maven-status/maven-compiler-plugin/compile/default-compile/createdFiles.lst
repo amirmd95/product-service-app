@@ -1,0 +1,12 @@
+com/sphota/product/model/Category.class
+com/sphota/product/model/Product.class
+com/sphota/product/service/ProductService.class
+com/sphota/product/dto/ProductRequest.class
+com/sphota/product/controller/ProductController.class
+com/sphota/product/ProductManagementAppApplication.class
+com/sphota/product/dto/ProductResponse.class
+com/sphota/product/service/CategoryService.class
+com/sphota/product/repository/CategoryRepository.class
+com/sphota/product/controller/CategoryController.class
+com/sphota/product/repository/ProductRepository.class
+com/sphota/product/dto/CategoryRequest.class
